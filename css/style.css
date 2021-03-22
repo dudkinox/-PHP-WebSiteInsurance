@@ -1,0 +1,9 @@
+#header {
+  background: rgba(0, 77, 145, 10);
+}
+.navbar-mobile ul {
+  background-color: #0000008a;
+}
+.navbar-mobile .dropdown ul {
+  background: #b9d5ff;
+}
