@@ -7,3 +7,8 @@
 .navbar-mobile .dropdown ul {
   background: #a2cef7;
 }
+div#tel_icon {
+  display: inline;
+  position: relative;
+  bottom: 4px;
+}
