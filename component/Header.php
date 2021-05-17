@@ -2,7 +2,9 @@
     <div class="container d-flex align-items-center">
 
         <div class="logo me-auto">
-            <h1><img src="https://www.azayonline.com/wp-content/uploads/2018/12/azay_60.png" alt=""></h1>
+            <a href="../">
+                <h1><img src="https://www.azayonline.com/wp-content/uploads/2018/12/azay_60.png" alt=""></h1>
+            </a>
         </div>
 
         <nav id="navbar" class="navbar">
@@ -15,10 +17,10 @@
                         <i class="bi bi-chevron-down"></i></a>
                     <ul>
                         <li><a href="#">เยี่ยมลูกค้า</a></li>
-                        <li><a href="#">มอบกรมธรรม์</a></li>
+                        <li><a href="../activity/?page=insurance">มอบกรมธรรม์</a></li>
                     </ul>
                 </li>
-                <li><a class="nav-link scrollto text-white" href="activity/" target="_blank">กิจกรรมในทีม</a></li>
+                <li><a class="nav-link scrollto text-white" href="../activity/">กิจกรรมในทีม</a></li>
                 <li><a class="nav-link scrollto text-white" href="#contact">ประกันรถยนต์</a></li>
                 <li><a class="nav-link scrollto text-white" href="#contact">สมัครตัวแทน</a></li>
                 <li><a class="nav-link scrollto text-white" href="#contact">ติดต่อเรา</a></li>
